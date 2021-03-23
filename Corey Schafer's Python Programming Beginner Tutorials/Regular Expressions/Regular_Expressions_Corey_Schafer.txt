@@ -1,0 +1,22 @@
+# Regular Expressions
+# Search for specifics patterns of text
+# We can create a Regular Expression about any pattern of text we can think of
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMOPQRSTUVXYZ
+1234567890
+
+Ha HaHa
+
+Metacharacters (Need to be escaped - Use backslash):
+.[{()\^$|?*+
+
+coreyms.com
+
+321-555-4321
+123.555.1234
+
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs Robinson
